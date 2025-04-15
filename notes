@@ -1,0 +1,8 @@
+# setup env
+export OPENAI_API_KEY=sk-***
+
+# installations
+nltk
+rouge
+bert_score
+langdetect
