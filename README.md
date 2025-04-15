@@ -2,7 +2,7 @@
   <img src="images/logo1.png" alt="Promptomatic Logo" width="400"/>
   
   <h1>Promptomatic</h1>
-  <h3>A Powerful Framework for LLM Prompt Optimization</h3>
+  <h3>A Framework for LLM Prompt Optimization</h3>
 </div>
 
 <div align="center">
