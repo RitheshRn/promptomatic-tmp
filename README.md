@@ -1,3 +1,14 @@
+## ⚠️ 🔴 WARNING: Work in Progress
+
+> This repository is under **active development** and is **not ready for production use**.
+>
+> - Codebase, features, and structure are **unstable** and may change without notice.  
+> - Documentation is **incomplete** and not reflective of the final implementation.  
+> - Please **do not share, fork, or distribute** without explicit permission.
+>
+> If you're reviewing this as part of a collaboration or evaluation, reach out to the author(@RitheshRn) for context and guidance.
+
+
 <div align="center">
   <img src="images/logo1.png" alt="Promptomatic Logo" width="400"/>
   
