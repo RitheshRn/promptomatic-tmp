@@ -103,7 +103,7 @@ Promptomatic follows a modular architecture with the following key components:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/promptomatic.git
+git clone https://github.com/<XYZ>/promptomatic.git
 cd promptomatic
 
 # Install dependencies
@@ -125,10 +125,10 @@ export ANTHROPIC_API_KEY="your_anthropic_api_key"
 ### Basic Usage
 
 ```python
-from promptomatic.core.main import process_input
+from promptomatic.core.main import optimize_prompt
 
 # Optimize a prompt with default settings
-result = process_input(
+result = optimize_prompt(
     human_input="Classify text into positive/negative sentiment"
 )
 
@@ -158,7 +158,7 @@ result = optimize_with_feedback("your_session_id")
 print(result['result'])
 ```
 
-## 🔌 API Documentation
+## 🔌 API Documentation [WIP]
 
 ### Starting the API Server
 
@@ -167,7 +167,7 @@ print(result['result'])
 python -m promptomatic.api
 ```
 
-### API Endpoints
+### API Endpoints [WIP]
 
 #### Optimize Prompt (`POST /optimize`)
 
@@ -327,7 +327,7 @@ This project is licensed under the Apache License - see the LICENSE file for det
 
 ## 📧 Contact
 
-For questions or feedback, please open an issue on GitHub or contact the project maintainers.
+For questions or feedback, please open an issue on GitHub or contact the project maintainers. (Rithesh Murthy, @RitheshRn)
 
 ---
 
