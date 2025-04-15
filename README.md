@@ -1,6 +1,6 @@
 ## ⚠️ 🔴 WARNING: Work in Progress
 
-> This repository is under **active development** and is **not ready for production use**.
+> I plan to open-source this project in the coming weeks. At the moment, I’m finalizing experiments and refining the API documentation. This repository is under active development and is not yet ready for production use.
 >
 > - Codebase, features, and structure are **unstable** and may change without notice.  
 > - Documentation is **incomplete** and not reflective of the final implementation.  
